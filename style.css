@@ -31,6 +31,59 @@ body {
   height: 100vh;
   flex-direction: column;
 }
+.modal {
+  display: none;
+  position: fixed;
+  z-index: 999;
+  left: 0; top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0,0,0,0.6);
+  justify-content: center;
+  align-items: center;
+}
+
+.modal-content {
+  background-color: var(--card);
+  color: var(--text);
+  padding: 30px;
+  border-radius: 10px;
+  width: 300px;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.5);
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  position: relative;
+}
+
+.modal-content input {
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  font-size: 14px;
+}
+
+.modal-content button {
+  background-color: var(--highlight);
+  color: white;
+  padding: 10px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.modal-content button:hover {
+  background-color: #17a349;
+}
+
+.modal .close {
+  position: absolute;
+  right: 15px;
+  top: 10px;
+  font-size: 22px;
+  cursor: pointer;
+}
 
 .sidebar {
   background: var(--card);
@@ -109,6 +162,88 @@ body {
 .content-wrap {
   width: 100%;
   max-width: 1200px;
+}
+/* HAMBURGER BUTTON */
+.hamburger {
+  display: none;
+  font-size: 26px;
+  background: none;
+  border: none;
+  color: var(--text);
+  cursor: pointer;
+}
+
+/* RESPONSIVE STYLES */
+@media screen and (max-width: 768px) {
+  .sidebar {
+    position: fixed;
+    left: -220px;
+    top: 0;
+    width: 200px;
+    height: 100%;
+    background: var(--card);
+    z-index: 1000;
+    transition: left 0.3s ease;
+  }
+
+  .sidebar.show {
+    left: 0;
+  }
+
+  .main-content {
+    margin-left: 0;
+    padding: 10px;
+  }
+
+  .top-row {
+    flex-wrap: wrap;
+    gap: 10px;
+    align-items: flex-start;
+  }
+
+  .hamburger {
+    display: block;
+  }
+
+  .auth-actions {
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    width: 100%;
+  }
+
+  .categories {
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+
+  .song-grid,
+  .library-grid {
+    grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));
+  }
+
+  .player {
+    left: 0;
+    flex-wrap: wrap;
+    gap: 10px;
+    padding: 10px;
+  }
+
+  .player-info {
+    flex: 1 1 100%;
+    justify-content: center;
+  }
+
+  .controls {
+    flex: 1 1 100%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+
+  #seekBar {
+    flex: 1 1 100%;
+    margin: 10px 0;
+  }
 }
 
 .top-row {
