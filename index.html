@@ -8,6 +8,27 @@
 </head>
 <body>
   <div class="app">
+    <!-- Login Modal -->
+    <div id="loginModal" class="modal">
+      <div class="modal-content">
+        <span class="close" id="closeLogin">&times;</span>
+        <h2>Login</h2>
+        <input type="text" id="loginUser" placeholder="Username" />
+        <input type="password" id="loginPass" placeholder="Password" />
+        <button id="loginSubmit">Login</button>
+      </div>
+    </div>
+
+    <!-- Signup Modal -->
+    <div id="signupModal" class="modal">
+      <div class="modal-content">
+        <span class="close" id="closeSignup">&times;</span>
+        <h2>Signup</h2>
+        <input type="text" id="signupUser" placeholder="Username" />
+        <input type="password" id="signupPass" placeholder="Password" />
+        <button id="signupSubmit">Signup</button>
+      </div>
+    </div>
     <aside class="sidebar">
       <div class="logo" id="logo">
         <img src="images/logo.png" alt="Logo" id="logoImage" />
@@ -26,6 +47,7 @@
     <main class="main-content">
       <div class="content-wrap">
         <div class="top-row">
+          <button id="hamburger" class="hamburger">☰</button>
           <div class="categories">
             <button class="tab">Top Picks</button>
             <button class="tab">Trending</button>
