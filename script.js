@@ -1,3 +1,67 @@
+// Responsive hamburger
+const hamburger = document.getElementById("hamburger");
+const sidebar = document.querySelector(".sidebar");
+
+hamburger.onclick = () => {
+  sidebar.classList.toggle("show");
+};
+
+// Hide sidebar on nav click (mobile UX)
+document.querySelectorAll(".sidebar nav ul li").forEach(item => {
+  item.onclick = () => {
+    if (window.innerWidth <= 768) {
+      sidebar.classList.remove("show");
+    }
+  };
+});
+
+
+
+
+// Auth Modals
+const loginModal = document.getElementById("loginModal");
+const signupModal = document.getElementById("signupModal");
+const loginBtn = document.querySelectorAll(".auth-btn")[0];
+const signupBtn = document.querySelectorAll(".auth-btn")[1];
+const closeLogin = document.getElementById("closeLogin");
+const closeSignup = document.getElementById("closeSignup");
+
+// Show/Hide Modals
+loginBtn.onclick = () => loginModal.style.display = "flex";
+signupBtn.onclick = () => signupModal.style.display = "flex";
+closeLogin.onclick = () => loginModal.style.display = "none";
+closeSignup.onclick = () => signupModal.style.display = "none";
+
+// Dummy Authentication (can be expanded)
+document.getElementById("loginSubmit").onclick = () => {
+  const user = document.getElementById("loginUser").value;
+  const pass = document.getElementById("loginPass").value;
+  if (user && pass) {
+    alert(`Welcome back, ${user}!`);
+    loginModal.style.display = "none";
+  } else {
+    alert("Please enter both username and password.");
+  }
+};
+
+document.getElementById("signupSubmit").onclick = () => {
+  const user = document.getElementById("signupUser").value;
+  const pass = document.getElementById("signupPass").value;
+  if (user && pass) {
+    alert(`Account created for ${user}. You can now log in.`);
+    signupModal.style.display = "none";
+  } else {
+    alert("Please fill all fields.");
+  }
+};
+
+// Close modals when clicking outside
+window.onclick = (event) => {
+  if (event.target === loginModal) loginModal.style.display = "none";
+  if (event.target === signupModal) signupModal.style.display = "none";
+};
+
+
 const audio = document.getElementById("audio");
 const cover = document.getElementById("cover");
 const title = document.getElementById("songTitle");
