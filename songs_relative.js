@@ -941,4 +941,10 @@ const songs = [
     "cover": "images/cover.jpg",
     "category": "uncategorized"
   }
+  {
+    "title": "Sage",
+    "file": "songs/Sage.mp3",
+    "cover": "images/cover.jpg",
+    "category": "uncategorized"
+  }
 ];
