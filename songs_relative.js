@@ -940,7 +940,7 @@ const songs = [
     "file": "songs/Sachiya Mohabbatan.mp3",
     "cover": "images/cover.jpg",
     "category": "uncategorized"
-  }
+  },
   {
     "title": "Valam - Made in China",
     "file": "songs/Valam - Made in China.mp3",
