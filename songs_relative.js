@@ -942,7 +942,7 @@ const songs = [
     "category": "uncategorized"
   },
   {
-    "title": "Valam - Made in China",
+    "title": "Valam",
     "file": "songs/Valam - Made in China.mp3",
     "cover": "images/cover.jpg",
     "category": "uncategorized"
