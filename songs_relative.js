@@ -942,6 +942,18 @@ const songs = [
     "category": "uncategorized"
   },
   {
+    "title": "Sage",
+    "file": "songs/Sage - Ritviz 320Kbps(DJPubg.Com).mp3",
+    "cover": "images/cover.jpg",
+    "category": "uncategorized"
+  },
+  {
+    "title": "Sanam Teri Kasam",
+    "file": "songs/Sanam Teri Kasam.mp3",
+    "cover": "images/cover.jpg",
+    "category": "uncategorized"
+  },
+  {
     "title": "Valam",
     "file": "songs/Valam - Made in China.mp3",
     "cover": "images/cover.jpg",
