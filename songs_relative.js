@@ -954,6 +954,96 @@ const songs = [
     "category": "uncategorized"
   },
   {
+    "title": "Savan",
+    "file": "songs/Savan-(Mr-Jatt.com).mp3",
+    "cover": "images/cover.jpg",
+    "category": "uncategorized"
+  },
+  {
+    "title": "Shaam O Seher",
+    "file": "songs/Shaam O Seher - Vishal Mishra.mp3",
+    "cover": "images/cover.jpg",
+    "category": "uncategorized"
+  },
+  {
+    "title": "Shayad",
+    "file": "songs/Shayad - Love Aaj Kal.mp3",
+    "cover": "images/cover.jpg",
+    "category": "uncategorized"
+  },
+  {
+    "title": "She Dont Know",
+    "file": "songs/She Dont Know - Millind Gaba.mp3",
+    "cover": "images/cover.jpg",
+    "category": "uncategorized"
+  },
+  {
+    "title": "Cheap Thrills",
+    "file": "songs/Sia_-_Cheap_Thrills_(Lyric_Video)_ft._Sean_Paul_128_16842960.mp3",
+    "cover": "images/cover.jpg",
+    "category": "uncategorized"
+  },
+  {
+    "title": "Snapchat Story",
+    "file": "songs/Snapchat Story-(MrJatt.Club).mp3",
+    "cover": "images/cover.jpg",
+    "category": "uncategorized"
+  },
+  {
+    "title": "Socha Hai",
+    "file": "songs/Socha Hai.mp3",
+    "cover": "images/cover.jpg",
+    "category": "uncategorized"
+  },
+  {
+    "title": "Sohnea",
+    "file": "songs/Sohnea-(Mr-Jatt.com).mp3",
+    "cover": "images/cover.jpg",
+    "category": "uncategorized"
+  },
+  {
+    "title": "Soja Zara",
+    "file": "songs/Soja Zara.mp3",
+    "cover": "images/cover.jpg",
+    "category": "uncategorized"
+  },
+  {
+    "title": "Brown Rang",
+    "file": "songs/Songs.PK  03 - Yo Yo Hits - Brown Rang.mp3",
+    "cover": "images/cover.jpg",
+    "category": "uncategorized"
+  },
+  {
+    "title": "Still_D.R.E._(Instrumental)",
+    "file": "songs/Still_D.R.E._(Instrumental).mp3",
+    "cover": "images/cover.jpg",
+    "category": "uncategorized"
+  },
+  {
+    "title": "Still_D.R.E._(Instrumental)",
+    "file": "songs/Still_D.R.E._(Instrumental).mp3",
+    "cover": "images/cover.jpg",
+    "category": "uncategorized"
+  },
+  {
+    "title": "Such Keh Raha Hai",
+    "file": "songs/Such Keh Raha Hai (RHTDM) -320Kbps  PagalWorld.com.mp3",
+    "cover": "images/cover.jpg",
+    "category": "uncategorized"
+  },
+  {
+    "title": "Sunn Raha Hai",
+    "file": "songs/Sunn Raha Hai [DJMaza].mp3",
+    "cover": "images/cover.jpg",
+    "category": "uncategorized"
+  },
+  {
+    "title": "Suno Na Sangemarmar",
+    "file": "songs/Suno_Na_Sangemarmar(wapking.cc) (1).mp3",
+    "cover": "images/cover.jpg",
+    "category": "uncategorized"
+  },
+  {
     "title": "Valam",
     "file": "songs/Valam - Made in China.mp3",
     "cover": "images/cover.jpg",
