@@ -1044,8 +1044,296 @@ const songs = [
     "category": "uncategorized"
   },
   {
+    "title": "Supna",
+    "file": "songs/Supna-(Mr-Jatt.com).mp3",
+    "cover": "images/cover.jpg",
+    "category": "uncategorized"
+  },
+  {
+    "title": "ily",
+    "file": "songs/Surf Mesa ft. Emilee - ily.mp3",
+    "cover": "images/cover.jpg",
+    "category": "uncategorized"
+  },
+  {
+    "title": "Tajurba",
+    "file": "songs/Tajurba.mp3",
+    "cover": "images/cover.jpg",
+    "category": "uncategorized"
+  },
+  {
+    "title": "Tay Hai",
+    "file": "songs/Tay Hai.mp3",
+    "cover": "images/cover.jpg",
+    "category": "uncategorized"
+  },
+  {
+    "title": "Teeje Week",
+    "file": "songs/Teeje Week - Jordan Sandhu (DjPunjab.Com).mp3",
+    "cover": "images/cover.jpg",
+    "category": "uncategorized"
+  },
+  {
+    "title": "Temporary Pyar",
+    "file": "songs/Temporary Pyar - Kaka.mp3",
+    "cover": "images/cover.jpg",
+    "category": "uncategorized"
+  },
+  {
+    "title": "Tera Ban Jaunga",
+    "file": "songs/Tera Ban Jaunga - Kabir Singh.mp3",
+    "cover": "images/cover.jpg",
+    "category": "uncategorized"
+  },
+  {
+    "title": "Tera Chehra",
+    "file": "songs/Tera Chehra.mp3",
+    "cover": "images/cover.jpg",
+    "category": "uncategorized"
+  },
+  {
+    "title": "Tera Ghata",
+    "file": "songs/Tera Ghata - Gajendra Verma.mp3",
+    "cover": "images/cover.jpg",
+    "category": "uncategorized"
+  },
+  {
+    "title": "Tere Do Naina",
+    "file": "songs/Tere Do Naina - Ankit Tiwari.mp3",
+    "cover": "images/cover.jpg",
+    "category": "uncategorized"
+  },
+  {
+    "title": "Tere Bagair",
+    "file": "songs/Tere_Bagair_(Channo_Kamli_Yaar_Di)_-_Am.mp3",
+    "cover": "images/cover.jpg",
+    "category": "uncategorized"
+  },
+  {
+    "title": "Teri Aankhon Mein",
+    "file": "songs/Teri Aankhon Mein - Darshan Raval.mp3",
+    "cover": "images/cover.jpg",
+    "category": "uncategorized"
+  },
+  {
+    "title": "Teri Fariyad",
+    "file": "songs/Teri Fariyad.mp3",
+    "cover": "images/cover.jpg",
+    "category": "uncategorized"
+  },
+  {
+    "title": "Teri meri Kahani",
+    "file": "songs/Teri meri Kahani.mp3",
+    "cover": "images/cover.jpg",
+    "category": "uncategorized"
+  },
+  {
+    "title": "Teri Jhuki Nazar",
+    "file": "songs/Teri_Jhuki_Nazar LoveJatt.mp3",
+    "cover": "images/cover.jpg",
+    "category": "uncategorized"
+  },
+  {
+    "title": "Thodi Jagah",
+    "file": "songs/Thodi Jagah - Marjaavaan.mp3",
+    "cover": "images/cover.jpg",
+    "category": "uncategorized"
+  },
+  {
+    "title": "Thug Ranjha",
+    "file": "songs/Thug Ranjha-(Mr-Jatt.com).mp3",
+    "cover": "images/cover.jpg",
+    "category": "uncategorized"
+  },
+  {
+    "title": "Titliaan",
+    "file": "songs/Titliaan-Bestwap.Audio.mp3",
+    "cover": "images/cover.jpg",
+    "category": "uncategorized"
+  },
+  {
+    "title": "Tod Da e Dil",
+    "file": "songs/Tod Da e Dil - Maninder Buttar.mp3",
+    "cover": "images/cover.jpg",
+    "category": "uncategorized"
+  },
+  {
+    "title": "Toh Phi Aao",
+    "file": "songs/Toh Phi Aao - Lounge Version - Awarapan 320Kbps.mp3",
+    "cover": "images/cover.jpg",
+    "category": "uncategorized"
+  },
+  {
+    "title": "Trending Nakhra",
+    "file": "songs/Trending Nakhra-(Mr-Jatt.com).mp3",
+    "cover": "images/cover.jpg",
+    "category": "uncategorized"
+  },
+  {
+    "title": "Falling",
+    "file": "songs/Trevor_Daniel_-_Falling_Soloplayng_Soloplay.ng.mp3",
+    "cover": "images/cover.jpg",
+    "category": "uncategorized"
+  },
+  {
+    "title": "Tu Bhi Royega",
+    "file": "songs/Tu Bhi Royega - Jyotica Tangri.mp3",
+    "cover": "images/cover.jpg",
+    "category": "uncategorized"
+  },
+  {
+    "title": "Tu Har Lamha",
+    "file": "songs/Tu Har Lamha-(Mr-Jatt.com).mp3",
+    "cover": "images/cover.jpg",
+    "category": "uncategorized"
+  },
+  {
+    "title": "Tu Hi Hai",
+    "file": "songs/Tu Hi Hai_320(bossmobi).mp3",
+    "cover": "images/cover.jpg",
+    "category": "uncategorized"
+  },
+  {
+    "title": "Tu Hi Yaar Mera",
+    "file": "songs/Tu Hi Yaar Mera - Pati Patni Aur Woh.mp3",
+    "cover": "images/cover.jpg",
+    "category": "uncategorized"
+  },
+  {
+    "title": "Tujhe Kitna Chahne Lage",
+    "file": "songs/Tujhe Kitna Chahne Lage - Kabir Singh.mp3",
+    "cover": "images/cover.jpg",
+    "category": "uncategorized"
+  },
+  {
+    "title": "Tum Hardafa Ho",
+    "file": "songs/Tum Hardafa Ho - Ankit Tiwari - 190Kbps.mp3",
+    "cover": "images/cover.jpg",
+    "category": "uncategorized"
+  },
+  {
+    "title": "Tum Hi Aana",
+    "file": "songs/Tum Hi Aana - Marjaavaan.mp3",
+    "cover": "images/cover.jpg",
+    "category": "uncategorized"
+  },
+  {
+    "title": "Tum Ho",
+    "file": "songs/Tum Ho (Rockstar) - Mohit Chauhan - 320Kbps.mp3",
+    "cover": "images/cover.jpg",
+    "category": "uncategorized"
+  },
+  {
+    "title": "Tum Saath Ho",
+    "file": "songs/Tum Saath Ho-(Mr-Jatt.com).mp3",
+    "cover": "images/cover.jpg",
+    "category": "uncategorized"
+  },
+  {
+    "title": "Tum Se Hi",
+    "file": "songs/Tum Se Hi - Sadak 2.mp3",
+    "cover": "images/cover.jpg",
+    "category": "uncategorized"
+  },
+  {
+    "title": "Tu meri zindagi hai",
+    "file": "songs/Tu-meri-zindagi-hai-keshav-kumar-(mylovebd.wapkiz.mobi).mp3",
+    "cover": "images/cover.jpg",
+    "category": "uncategorized"
+  },
+  {
+    "title": "Tune Mere Jaana",
+    "file": "songs/Tune_Mere_Jaana_Hindi_Vision_song(256k).mp3",
+    "cover": "images/cover.jpg",
+    "category": "uncategorized"
+  },
+  {
+    "title": "Uska Hi Banana",
+    "file": "songs/Uska Hi Banana [MP3Khan.Com].mp3",
+    "cover": "images/cover.jpg",
+    "category": "uncategorized"
+  },
+  {
+    "title": "Vaaste",
+    "file": "songs/Vaaste - Dhvani Bhanushali.mp3",
+    "cover": "images/cover.jpg",
+    "category": "uncategorized"
+  },
+  {
     "title": "Valam",
     "file": "songs/Valam - Made in China.mp3",
+    "cover": "images/cover.jpg",
+    "category": "uncategorized"
+  },
+  {
+    "title": "Ve Maahi",
+    "file": "songs/Ve Maahi - Kesari.mp3",
+    "cover": "images/cover.jpg",
+    "category": "uncategorized"
+  },
+  {
+    "title": "Wajah Tum Ho",
+    "file": "songs/Wajah Tum Ho - Hate Story 3 (Armaan Malik) 190Kbps.mp3",
+    "cover": "images/cover.jpg",
+    "category": "uncategorized"
+  },
+  {
+    "title": "Waliyan",
+    "file": "songs/Waliyan_320(PagalWorld).mp3",
+    "cover": "images/cover.jpg",
+    "category": "uncategorized"
+  },
+  {
+    "title": "Woh Lamhe",
+    "file": "songs/Woh Lamhe - Zeher Atif Aslam 320Kbps.mp3",
+    "cover": "images/cover.jpg",
+    "category": "uncategorized"
+  },
+  {
+    "title": "Yaarr Ni Milyaa",
+    "file": "songs/Yaarr Ni Milyaa - Harrdy Sandhu.mp3",
+    "cover": "images/cover.jpg",
+    "category": "uncategorized"
+  },
+  {
+    "title": "Yadaan Teriyaan",
+    "file": "songs/Yadaan Teriyaan - Hero (Rahat Fateh Ali Khan) 190Kbps.mp3",
+    "cover": "images/cover.jpg",
+    "category": "uncategorized"
+  },
+  {
+    "title": "Yeh Dooriyan",
+    "file": "songs/Yeh Dooriyan - Love Aaj Kal.mp3",
+    "cover": "images/cover.jpg",
+    "category": "uncategorized"
+  },
+  {
+    "title": "Zahnaseeb",
+    "file": "songs/Zahnaseeb.mp3",
+    "cover": "images/cover.jpg",
+    "category": "uncategorized"
+  },
+  {
+    "title": "Zaroor",
+    "file": "songs/Zaroor Aparshakti Khurana.mp3",
+    "cover": "images/cover.jpg",
+    "category": "uncategorized"
+  },
+  {
+    "title": "Zaroorat",
+    "file": "songs/Zaroorat-Mustafa_Zahid[www.Mp3MaD.Com].mp3",
+    "cover": "images/cover.jpg",
+    "category": "uncategorized"
+  },
+  {
+    "title": "Zindagi Di Paudi",
+    "file": "songs/Zindagi Di Paudi - Millind Gaba.mp3",
+    "cover": "images/cover.jpg",
+    "category": "uncategorized"
+  },
+  {
+    "title": "Zindagi",
+    "file": "songs/Zindagi-Akhil www.Mp3MaD.Com .mp3",
     "cover": "images/cover.jpg",
     "category": "uncategorized"
   }
