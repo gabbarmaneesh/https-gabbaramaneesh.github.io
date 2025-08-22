@@ -432,8 +432,14 @@ const songs = [
     "category": "uncategorized"
   },
   {
-    "title": "Judai",
-    "file": "songs/Judai.mp3",
+    "title": "Jaani Tera Naa",
+    "file": "songs/Jaani Tera Naa.mp3",
+    "cover": "images/cover.jpg",
+    "category": "uncategorized"
+  },
+  {
+    "title": "Jhol",
+    "file": "songs/Jhol(KoshalWorld.Com).mp3",
     "cover": "images/cover.jpg",
     "category": "uncategorized"
   },
