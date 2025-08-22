@@ -78,6 +78,12 @@ const songs = [
     "category": "uncategorized"
   },
   {
+    "title": "Bhare Naina",
+    "file": "songs/Bhare Naina Ra One 320 Kbps.mp3",
+    "cover": "images/cover.jpg",
+    "category": "uncategorized"
+  },
+  {
     "title": "Blush",
     "file": "songs/Blush.mp3",
     "cover": "images/cover.jpg",
