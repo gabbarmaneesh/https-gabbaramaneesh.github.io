@@ -822,6 +822,12 @@ const songs = [
     "category": "uncategorized"
   },
   {
+    "title": "Oonchi Oonchi Deewarein",
+    "file": "songs/Oonchi Oonchi Deewarein.mp3",
+    "cover": "images/cover.jpg",
+    "category": "uncategorized"
+  },
+  {
     "title": "O-Palan-Hare",
     "file": "songs/O-Palan-Hare.mp3",
     "cover": "images/cover.jpg",
